@@ -1,0 +1,14 @@
+C:\college\Системное программирование\PR1\PR1\obj\Debug\net9.0\PR1.GeneratedMSBuildEditorConfig.editorconfig
+C:\college\Системное программирование\PR1\PR1\obj\Debug\net9.0\PR1.AssemblyInfoInputs.cache
+C:\college\Системное программирование\PR1\PR1\obj\Debug\net9.0\PR1.AssemblyInfo.cs
+C:\college\Системное программирование\PR1\PR1\obj\Debug\net9.0\PR1.csproj.CoreCompileInputs.cache
+C:\college\Системное программирование\PR1\PR1\bin\Debug\net9.0\PR1.exe
+C:\college\Системное программирование\PR1\PR1\bin\Debug\net9.0\PR1.deps.json
+C:\college\Системное программирование\PR1\PR1\bin\Debug\net9.0\PR1.runtimeconfig.json
+C:\college\Системное программирование\PR1\PR1\bin\Debug\net9.0\PR1.dll
+C:\college\Системное программирование\PR1\PR1\bin\Debug\net9.0\PR1.pdb
+C:\college\Системное программирование\PR1\PR1\obj\Debug\net9.0\PR1.dll
+C:\college\Системное программирование\PR1\PR1\obj\Debug\net9.0\refint\PR1.dll
+C:\college\Системное программирование\PR1\PR1\obj\Debug\net9.0\PR1.pdb
+C:\college\Системное программирование\PR1\PR1\obj\Debug\net9.0\PR1.genruntimeconfig.cache
+C:\college\Системное программирование\PR1\PR1\obj\Debug\net9.0\ref\PR1.dll
