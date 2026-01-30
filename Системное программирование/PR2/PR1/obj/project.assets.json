@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\college\\Системное программирование\\PR1\\PR1\\PR1.csproj",
+      "projectUniqueName": "C:\\files\\github\\rpm-Fominykh_Sergey\\rpm-sp-Fominykh_Sergey\\Системное программирование\\PR2\\PR1\\PR1.csproj",
       "projectName": "PR1",
-      "projectPath": "C:\\college\\Системное программирование\\PR1\\PR1\\PR1.csproj",
+      "projectPath": "C:\\files\\github\\rpm-Fominykh_Sergey\\rpm-sp-Fominykh_Sergey\\Системное программирование\\PR2\\PR1\\PR1.csproj",
       "packagesPath": "C:\\Users\\Welty\\.nuget\\packages\\",
-      "outputPath": "C:\\college\\Системное программирование\\PR1\\PR1\\obj\\",
+      "outputPath": "C:\\files\\github\\rpm-Fominykh_Sergey\\rpm-sp-Fominykh_Sergey\\Системное программирование\\PR2\\PR1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
