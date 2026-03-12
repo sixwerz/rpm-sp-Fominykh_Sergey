@@ -1,0 +1,15 @@
+C:\files\github\rpm-Fominykh_Sergey\rpm-sp-Fominykh_Sergey\Системное программирование\PR5\PR5\bin\Debug\net9.0\PR5.exe
+C:\files\github\rpm-Fominykh_Sergey\rpm-sp-Fominykh_Sergey\Системное программирование\PR5\PR5\bin\Debug\net9.0\PR5.deps.json
+C:\files\github\rpm-Fominykh_Sergey\rpm-sp-Fominykh_Sergey\Системное программирование\PR5\PR5\bin\Debug\net9.0\PR5.runtimeconfig.json
+C:\files\github\rpm-Fominykh_Sergey\rpm-sp-Fominykh_Sergey\Системное программирование\PR5\PR5\bin\Debug\net9.0\PR5.dll
+C:\files\github\rpm-Fominykh_Sergey\rpm-sp-Fominykh_Sergey\Системное программирование\PR5\PR5\bin\Debug\net9.0\PR5.pdb
+C:\files\github\rpm-Fominykh_Sergey\rpm-sp-Fominykh_Sergey\Системное программирование\PR5\PR5\obj\Debug\net9.0\PR5.GeneratedMSBuildEditorConfig.editorconfig
+C:\files\github\rpm-Fominykh_Sergey\rpm-sp-Fominykh_Sergey\Системное программирование\PR5\PR5\obj\Debug\net9.0\PR5.AssemblyInfoInputs.cache
+C:\files\github\rpm-Fominykh_Sergey\rpm-sp-Fominykh_Sergey\Системное программирование\PR5\PR5\obj\Debug\net9.0\PR5.AssemblyInfo.cs
+C:\files\github\rpm-Fominykh_Sergey\rpm-sp-Fominykh_Sergey\Системное программирование\PR5\PR5\obj\Debug\net9.0\PR5.csproj.CoreCompileInputs.cache
+C:\files\github\rpm-Fominykh_Sergey\rpm-sp-Fominykh_Sergey\Системное программирование\PR5\PR5\obj\Debug\net9.0\PR5.sourcelink.json
+C:\files\github\rpm-Fominykh_Sergey\rpm-sp-Fominykh_Sergey\Системное программирование\PR5\PR5\obj\Debug\net9.0\PR5.dll
+C:\files\github\rpm-Fominykh_Sergey\rpm-sp-Fominykh_Sergey\Системное программирование\PR5\PR5\obj\Debug\net9.0\refint\PR5.dll
+C:\files\github\rpm-Fominykh_Sergey\rpm-sp-Fominykh_Sergey\Системное программирование\PR5\PR5\obj\Debug\net9.0\PR5.pdb
+C:\files\github\rpm-Fominykh_Sergey\rpm-sp-Fominykh_Sergey\Системное программирование\PR5\PR5\obj\Debug\net9.0\PR5.genruntimeconfig.cache
+C:\files\github\rpm-Fominykh_Sergey\rpm-sp-Fominykh_Sergey\Системное программирование\PR5\PR5\obj\Debug\net9.0\ref\PR5.dll
