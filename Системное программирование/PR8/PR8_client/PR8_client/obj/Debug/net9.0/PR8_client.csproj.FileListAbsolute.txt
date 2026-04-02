@@ -1,0 +1,15 @@
+C:\files\github\rpm-Fominykh_Sergey\rpm-sp-Fominykh_Sergey\Системное программирование\PR8\PR8_client\PR8_client\bin\Debug\net9.0\PR8_client.exe
+C:\files\github\rpm-Fominykh_Sergey\rpm-sp-Fominykh_Sergey\Системное программирование\PR8\PR8_client\PR8_client\bin\Debug\net9.0\PR8_client.deps.json
+C:\files\github\rpm-Fominykh_Sergey\rpm-sp-Fominykh_Sergey\Системное программирование\PR8\PR8_client\PR8_client\bin\Debug\net9.0\PR8_client.runtimeconfig.json
+C:\files\github\rpm-Fominykh_Sergey\rpm-sp-Fominykh_Sergey\Системное программирование\PR8\PR8_client\PR8_client\bin\Debug\net9.0\PR8_client.dll
+C:\files\github\rpm-Fominykh_Sergey\rpm-sp-Fominykh_Sergey\Системное программирование\PR8\PR8_client\PR8_client\bin\Debug\net9.0\PR8_client.pdb
+C:\files\github\rpm-Fominykh_Sergey\rpm-sp-Fominykh_Sergey\Системное программирование\PR8\PR8_client\PR8_client\obj\Debug\net9.0\PR8_client.GeneratedMSBuildEditorConfig.editorconfig
+C:\files\github\rpm-Fominykh_Sergey\rpm-sp-Fominykh_Sergey\Системное программирование\PR8\PR8_client\PR8_client\obj\Debug\net9.0\PR8_client.AssemblyInfoInputs.cache
+C:\files\github\rpm-Fominykh_Sergey\rpm-sp-Fominykh_Sergey\Системное программирование\PR8\PR8_client\PR8_client\obj\Debug\net9.0\PR8_client.AssemblyInfo.cs
+C:\files\github\rpm-Fominykh_Sergey\rpm-sp-Fominykh_Sergey\Системное программирование\PR8\PR8_client\PR8_client\obj\Debug\net9.0\PR8_client.csproj.CoreCompileInputs.cache
+C:\files\github\rpm-Fominykh_Sergey\rpm-sp-Fominykh_Sergey\Системное программирование\PR8\PR8_client\PR8_client\obj\Debug\net9.0\PR8_client.sourcelink.json
+C:\files\github\rpm-Fominykh_Sergey\rpm-sp-Fominykh_Sergey\Системное программирование\PR8\PR8_client\PR8_client\obj\Debug\net9.0\PR8_client.dll
+C:\files\github\rpm-Fominykh_Sergey\rpm-sp-Fominykh_Sergey\Системное программирование\PR8\PR8_client\PR8_client\obj\Debug\net9.0\refint\PR8_client.dll
+C:\files\github\rpm-Fominykh_Sergey\rpm-sp-Fominykh_Sergey\Системное программирование\PR8\PR8_client\PR8_client\obj\Debug\net9.0\PR8_client.pdb
+C:\files\github\rpm-Fominykh_Sergey\rpm-sp-Fominykh_Sergey\Системное программирование\PR8\PR8_client\PR8_client\obj\Debug\net9.0\PR8_client.genruntimeconfig.cache
+C:\files\github\rpm-Fominykh_Sergey\rpm-sp-Fominykh_Sergey\Системное программирование\PR8\PR8_client\PR8_client\obj\Debug\net9.0\ref\PR8_client.dll
